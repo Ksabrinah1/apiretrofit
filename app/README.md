@@ -23,4 +23,7 @@ This is an Android that demonstrates how to use Retrofit to interact with an API
 This project is licensed under the MIT License.
 
 ## Screenhots
-[img.png](img.png)
+[img.png](img.png) 
+![Json](https://github.com/Ksabrinah1/apiretrofit/assets/103067816/62b87613-f7f8-4529-8465-654180e5d8a6)
+![image](https://github.com/Ksabrinah1/apiretrofit/assets/103067816/9dd536e0-6211-4320-a02c-b7fa52977747)
+![image](https://github.com/Ksabrinah1/apiretrofit/assets/103067816/4f6554ec-7704-4c4a-af58-2ee6cf9e895b)
